@@ -1,2 +1,1 @@
-
-typedef struct zw_annot_s zw_annot;
+typedef struct fz_annot_s fz_annot;

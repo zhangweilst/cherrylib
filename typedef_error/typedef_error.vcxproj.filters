@@ -18,7 +18,7 @@
     <ClCompile Include="typedef_error.h">
       <Filter>头文件</Filter>
     </ClCompile>
-    <ClCompile Include="typedef+error.c">
+    <ClCompile Include="typedef_error.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
