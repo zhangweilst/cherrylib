@@ -10,8 +10,5 @@ struct ref_s
 
 int main()
 {
-	ref aref;
-	aref.a = 1;
-	aref.annot = 0;
 	return 0;
 }
